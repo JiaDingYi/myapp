@@ -8,7 +8,7 @@ module.exports = {
             watch: false,
             autorestart: true,
             env: {
-                DEBUG: 'myapp:error',
+                DEBUG: 'myapp:*',
                 PORT: 80,
             }
         }
