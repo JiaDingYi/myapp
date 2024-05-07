@@ -9,7 +9,7 @@ module.exports = {
             autorestart: true,
             env: {
                 DEBUG: 'myapp:*',
-                PORT: 80,
+                PORT: 3000,
             }
         }
     ]
